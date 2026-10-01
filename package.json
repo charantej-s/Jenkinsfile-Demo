@@ -4,11 +4,11 @@
     "description":"Test",
     "main":"server.js",
 
-    "script":{
+    "scripts":{
          "start":"node server.js",
          "test":"node --check server.js"
         },
-        "dependencies":{
+    "dependencies":{
             "express":"^5.2.1"
         }      
 }        
