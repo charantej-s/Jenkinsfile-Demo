@@ -11,7 +11,7 @@ pipeline{
 
     environment{
             
-            IMAGE_NAME='Jenkins-demo-app'
+            IMAGE_NAME='jenkins-demo-app'
         }
       stages{
             stage('Checkout'){
